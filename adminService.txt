@@ -1,1 +1,5 @@
 admin adds users
+
+look  over user activities
+
+connect to database
